@@ -1,0 +1,3 @@
+class WidgetCounter
+ 
+end
